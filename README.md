@@ -18,8 +18,11 @@ This Spring Boot application:
 
 ## 📦 Tech Stack
 - Java 17
+  
 - Spring Boot 3.3.5
+  
 - RestTemplate
+  
 - Maven
 
 ---
