@@ -22,7 +22,7 @@ This Spring Boot application:
 - Spring Boot 3.3.5
   
 - RestTemplate
-  
+
 - Maven
 
 ---
