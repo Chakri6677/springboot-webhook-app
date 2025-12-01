@@ -30,6 +30,9 @@ This Spring Boot application:
 ## 📂 Project Structure
 spring-webhook-sql/
 ├─ pom.xml
+
 ├─ src/main/java/com/example/webhooksql/...
+
 ├─ target/spring-webhook-sql-0.0.1-SNAPSHOT.jar
+
 └─ README.md
